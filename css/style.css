@@ -27,6 +27,7 @@
 .special-heading:hover {
     color: #10CAB7;
     opacity: 1;
+    transform: scale(1.05);
     transition: 3s;
 }
 
